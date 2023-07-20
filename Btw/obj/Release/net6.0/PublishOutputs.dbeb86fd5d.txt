@@ -1,0 +1,11 @@
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Btw.exe
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Btw.dll
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Btw.deps.json
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Btw.runtimeconfig.json
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Btw.pdb
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Juan_Vargas\Proyectos\Net\Btw\Btw\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
